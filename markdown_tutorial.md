@@ -140,7 +140,9 @@ H<sup>2</sup>O
 ## Collapsible markdown
 <details>
 <summary>Hide text</summary>
+<p>
     Hidden text
+<p>
 </details>
 
 
